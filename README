@@ -1,0 +1,3 @@
+API access library that connects to the Bookshare's webservice.
+Services offered include ability to search for books using various criteria like authors, title etc.
+Book download option is also provided.
